@@ -1,6 +1,7 @@
 .head-main{
     display: block;
     text-align: center;
+    text-decoration: underline;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -14,10 +15,19 @@ form{
     text-align: center;
     padding: 0;
     margin: 0;
+    font-size: 20px;
 }
 
 .area{
-    padding: 0;
+    display: block;
+    margin: 0 auto 15px; 
+}
+
+input[type="submit"]{
     display: block;
     margin: 0 auto;
+    background-color: rgb(12, 9, 101);
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
 }
