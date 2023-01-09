@@ -10,7 +10,6 @@ body{
 }
 
 .head-logo{
-    border: 1px solid black;
     display: inline-flex;
     position: absolute;
 
@@ -48,4 +47,15 @@ li a{
 li a:hover{
     color: white;
     background-color: black;
+}
+
+.search{
+    display: inline-flex;
+    position: absolute;
+    cursor: pointer;
+    gap: 5px;
+    
+    margin: 0;
+    top: 55px;
+    right: 50px;
 }
