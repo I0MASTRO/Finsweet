@@ -1,0 +1,23 @@
+.head-main{
+    display: block;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.labe{
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.area{
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+}
