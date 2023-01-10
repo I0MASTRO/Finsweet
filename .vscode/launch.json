@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open target.html",
-            "file": "/Users/dmitrijdenisov/Targets/target-page/index.html"
+            "name": "Open index.html",
+            "file": "/Users/dmitrijdenisov/Targets/index.html"
         }
     ]
 }
