@@ -96,17 +96,19 @@ input[type="search"]{
     background-color: cadetblue;
 }
 
-.h-card{
+.h-card{ 
     display: block;
     text-align: center;
-}
+} /*Заголовок карточки*/
 
 .p-card{
-    display: block;
+    margin: auto;
+    padding: auto;
+    display: flex;
     text-align: center;
 
     font-size: 14px;
-}
+} /*Обзац карточки*/
 
 .card-about{
     border: 1px solid black;
@@ -119,8 +121,20 @@ input[type="search"]{
 }
 
 .card-pos{
-    margin: 50px 50px auto;
+    margin: 50px auto;
     gap: 100px;
+    width: 1400px;
+    
+    justify-content: center;
+    display: flex;
+} /*Позиция всех карточек*/
 
-    display: inline-flex;
+.card-go{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    height: 150px;
+    width: 350px;
+
+    background-color: cadetblue;
 }
