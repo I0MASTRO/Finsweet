@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open target.html",
-            "file": "/Users/dmitrijdenisov/Targets/target-page/target.html"
+            "file": "/Users/dmitrijdenisov/Targets/target-page/index.html"
         }
     ]
 }
