@@ -30,7 +30,7 @@ body{
     gap: 10px;
     top: 20px;
     right: 25px;
-}
+}   
 
 li a{
     text-decoration: none;
@@ -58,4 +58,12 @@ li a:hover{
     margin: 0;
     top: 55px;
     right: 50px;
+}   /* Оформление шапки сайта*/
+
+.main-h{
+    display: block;
+    text-align: center;
+    
+    padding: 0;
+    margin: 15px 0 0 0;
 }
