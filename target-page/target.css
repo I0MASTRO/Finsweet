@@ -67,3 +67,32 @@ li a:hover{
     padding: 0;
     margin: 15px 0 0 0;
 }
+
+.card-me{ /*Оформление первой карточки обо мне и сайте*/
+    border: 1px solid black;
+    height: 150px;
+    width: 350px;
+}
+
+.h-card{
+    display: block;
+    text-align: center;
+}
+
+.p-card{
+    display: block;
+    text-align: center;
+    font-size: 14px;
+}
+
+.card-about{
+    border: 1px solid black;
+    height: 150px;
+    width: 350px;
+}
+
+div{
+    margin: 15px 50px auto;
+    gap: 50px;
+    display: inline-flex;
+}
