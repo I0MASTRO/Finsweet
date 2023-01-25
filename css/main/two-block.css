@@ -167,4 +167,40 @@
     flex: none;
     order: 0;
     flex-grow: 0;
+}   /*Featured block end*/
+
+/*Posts block start*/
+
+.posts{
+    position: absolute;
+    width: 517px;
+    height: 804px;
+
+    left: 765px;
+    top: 0px;
+    bottom: 756px;
+    right: 0px;    
+}
+
+.posts-h-1{
+    position: absolute;
+    width: 133px;
+    height: 48px;
+
+    top: 0px;
+    left: 0px;
+    bottom: 756px;
+    right: 384px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height, or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;
 }
