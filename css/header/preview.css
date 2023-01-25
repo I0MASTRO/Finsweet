@@ -18,6 +18,37 @@ body{
     bottom: 5196px;
 }
 
-.text-block{
+.first-block{
+    position: absolute;
+    width: 804px;
+    height: 400px;
+    
+    left: 80px;
+    top: 208px;
+    bottom: 192px;
+    right: 556px;
+}
+
+.post{
+    position: absolute;
+    width: 222px;
+    height: 20px;
+
+    right: 581px;
+    top: 0px;
+    bottom: 380px;
+    left: 1px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+
+    color: #FFFFFF;
     
 }
