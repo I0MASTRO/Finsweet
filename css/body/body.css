@@ -1,0 +1,10 @@
+.body-main{
+    position: absolute;
+    width: 1440px;
+    height: 5996px;
+
+    padding: 0;
+    margin: 0;
+
+    background: #FFFFFF;
+}

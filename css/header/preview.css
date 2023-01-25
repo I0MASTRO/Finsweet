@@ -1,14 +1,6 @@
-body{
-    position: relative;
-    width: 1440px;
-    height: 5996px;
-    padding: 0;
-    margin: 0;
-    
-    background: #FFFFFF;
-}
-
 .first{
+    margin: 0;
+    padding: 0;
     position: absolute;
     width: 1440px;
     height: 720px;
@@ -19,6 +11,8 @@ body{
 }
 
 .first-block{
+    padding: 0;
+    margin: 0;
     position: absolute;
     width: 804px;
     height: 400px;

@@ -1,0 +1,170 @@
+.two-block{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 1282px;
+    height: 804px;
+
+    left: 80px;
+    right: 78px;
+    top: 928px;
+    bottom: 4264px;    
+}
+
+.featured{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 733px;
+    height: 804px;
+
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 549px;
+}
+
+.feat-h-1{
+    position: absolute;
+    width: 223px;
+    height: 48px;
+
+    left: 0px;
+    top: 0px;
+    right: 510px;
+    bottom: 756px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+
+    letter-spacing: -2px;
+    
+
+    color: #232536;
+}
+
+.home{
+    position: absolute;
+    width: 669px;
+    height: 352px;
+
+    top: 112px;
+    bottom: 340px;
+    left: 32px;
+    right: 32px;    
+}
+
+.Doe{
+    position: absolute;
+    width: 202px;
+    height: 20px;
+
+    top: 496px;
+    bottom: 288px;
+    left: 32px;
+    right: 499px;
+    
+    /* Label 01 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    
+    /* Dark Grey */
+    color: #4C4C4C;
+    
+}
+
+.John{
+    color: #592EA9;
+}
+
+.feat-h-2{
+    position: absolute;
+    width: 669px;
+    height: 80px;
+
+    top: 532px;
+    bottom: 192px;
+    left: 32px;
+    right: 32px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    
+    letter-spacing: -1px;
+    
+
+    color: #232536;   
+}
+
+.feat-p-1{
+    position: absolute;
+    width: 551px;
+    height: 56px;
+    
+    top: 628px;
+    bottom: 120px;
+    left: 32px;
+    right: 150px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    
+    color: #6D6E76;  
+}
+
+.featbutton{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 48px;
+    gap: 12px;
+    
+    position: absolute;
+    width: 204px;
+    height: 56px;
+    
+    top: 716px;
+    bottom: 32px;
+    left: 32px;
+    right: 497px;
+    
+    border: none;
+
+    background: #FFD050;
+}
+
+.feat-read{
+    width: 108px;
+    height: 24px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    display: flex;
+    align-items: center;
+    
+    /* Black */
+    color: #232536;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
