@@ -1,0 +1,10 @@
+.choose-block{
+    position: absolute;
+    width: 1280px;
+    height: 324px;
+
+    left: 80px;
+    top: 2511px;    
+    bottom: 3161px;
+    right: 80px;
+}
