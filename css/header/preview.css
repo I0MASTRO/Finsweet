@@ -1,0 +1,23 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 5996px;
+    padding: 0;
+    margin: 0;
+    
+    background: #FFFFFF;
+}
+
+.first{
+    position: absolute;
+    width: 1440px;
+    height: 720px;
+    left: 0px;
+
+    top: 80px;
+    bottom: 5196px;
+}
+
+.text-block{
+    
+}
