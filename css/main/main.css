@@ -1,0 +1,26 @@
+.shape-1{
+    position: absolute;
+    width: 843px;
+    height: 23px;
+
+    top: 1860px;
+    bottom: 4113px;
+    left: 299px;
+    right: 298px;
+    
+    background: #FFD050;
+}
+
+.shape-2{
+    position: absolute;
+    width: 282px;
+    height: 23px;
+
+    top: 1860px;
+    bottom: 4113px;
+    left: 1078px;
+    right: 80px;
+    
+    /* Purple */
+    background: #592EA9;
+}
