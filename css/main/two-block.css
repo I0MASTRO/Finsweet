@@ -204,3 +204,145 @@
     /* Black */
     color: #232536;
 }
+
+.view{
+    position: absolute;
+    width: 60px;
+    height: 28px;
+
+    right: 2px;
+    top: 1px;
+    left: 455px;
+    bottom: 765px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    /* Purple */
+    color: #592EA9;    
+
+    text-decoration: none;
+}
+
+.posts-block-1{
+    position: absolute;
+    width: 517px;
+    height: 181px;
+
+    top: 80px;
+    left: 0px;
+    right: 0px;
+    bottom: 543px;
+    
+    /* Light */
+    background: #FFFFFF;
+}
+
+.post-doe-1,
+.post-doe-2,
+.post-doe-3,
+.post-doe-4{
+    position: absolute;
+    width: 199px;
+    height: 20px;
+    
+    /* Label 01 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    
+    /* Dark Grey */
+    color: #4C4C4C;
+}
+
+.post-doe-1{
+    top: 32px;
+    bottom: 129px;
+    left: 32px;
+    right: 286px;
+}
+
+.post-doe-2{
+    top: 32px;
+    bottom: 129px;
+    left: 32.1px;
+    right: 300.9px;
+}
+
+.post-john{
+    color: #592EA9;
+}
+
+.post-p-1,
+.post-p-2,
+.post-p-3,
+.post-p-4{
+    position: absolute;
+    width: 369px;
+    height: 96px;
+    
+    top: 60px;
+    bottom: 25px;
+    left: 32px;
+    right: 116px;
+
+    /* Heading H4 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    
+    /* Black */
+    color: #232536;
+}
+
+.posts-block-2{
+    position: absolute;
+    width: 517px;
+    height: 181px;
+
+    top: 261px;
+    right: 0px;
+    left: 0px;
+    bottom: 362px;    
+    /* Light yellow */
+    background: #FBF6EA;
+}
+
+.posts-block-3{
+    position: absolute;
+    width: 517px;
+    height: 181px;
+
+    top: 442px;
+    bottom: 181px;
+    left: 0px;
+    right: 0px;
+    
+    /* Light */
+    background: #FFFFFF;
+}
+
+.posts-block-4{
+    position: absolute;
+    width: 517px;
+    height: 181px;
+
+    top: 623px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    
+    /* Light */
+    background: #FFFFFF;
+}
