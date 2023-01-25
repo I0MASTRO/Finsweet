@@ -1,0 +1,202 @@
+.about-block{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 1280px;
+    height: 500px;
+
+    right: 80px;
+    left: 80px;
+    top: 1883px;
+    bottom: 3613px;
+    
+    background: lavender;
+}
+
+.us{
+    position: absolute;
+    width: 515px;
+    height: 308px;
+
+    left: 80px;
+    top: 96px;
+    bottom: 96px;
+    right: 685px;
+}
+
+.us-h{
+    position: absolute;
+    width: 104px;
+    height: 20px;
+
+    right: 411px;
+    top: 0px;
+    left: 0px;
+    bottom: 288px;
+    
+    /* Cap 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    /* Black */
+    color: #232536;
+}
+
+.us-p-1{
+    position: absolute;
+    width: 494px;
+    height: 144px;
+
+    right: 21px;
+    top: 44px;
+    left: 0px;
+    bottom: 120px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;
+    
+}
+
+.us-p-2{
+    position: absolute;
+    width: 515px;
+    height: 56px;
+
+    right: 0px;
+    left: 0px;
+    top: 204px;
+    bottom: 48px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;
+}
+
+.us-a{
+    position: absolute;
+    width: 108px;
+    height: 32px;
+
+    right: 407px;
+    top: 276px;
+    left: 0px;
+    bottom: 0px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    /* identical to box height, or 178% */
+    display: flex;
+    align-items: center;
+    
+    /* Purple */
+    color: #592EA9;
+
+    text-decoration: none;
+} /*End block about*/
+
+/*Start block our*/
+
+.our{
+    position: absolute;
+    width: 516px;
+    height: 248.73px;
+
+    left: 656px;
+    top: 98px;
+    right: 108px;
+    bottom: 153.27px;
+}
+
+.our-h{
+    position: absolute;
+    width: 124px;
+    height: 20px;
+
+    right: 391px;
+    top: 0px;
+    left: 1px;
+    bottom: 228.73px;
+    
+    /* Cap 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    /* Black */
+    color: #232536;
+}
+
+.our-p-1{
+    position: absolute;
+    width: 481px;
+    height: 80px;
+
+    right: 35px;
+    top: 44px;
+    left: 0px;
+    bottom: 124.73px;
+    
+    /* Heading H3 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    /* or 143% */
+    letter-spacing: -1px;
+    
+    /* Black */
+    color: #232536;
+}
+
+.our-p-2{
+    position: absolute;
+    width: 516px;
+    height: 108.73px;
+
+    right: 0px;
+    top: 140px;
+    left: 0px;
+    bottom: 0px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;
+}
