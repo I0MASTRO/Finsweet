@@ -1,0 +1,148 @@
+.special-post{
+    position: absolute;
+    width: 1280px;
+    height: 705px;
+
+    left: 80px;
+    top: 2963px;
+    right: 80px;
+    bottom: 2328px;    
+}
+
+.people{
+    position: absolute;
+    width: 949px;
+    height: 705px;
+    
+    right: 331px;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.why{
+    position: absolute;
+    width: 706px;
+    height: 584px;
+
+    left: 574px;
+    top: 121px;
+    right: 0px;
+    bottom: 0px;
+
+    background: white;
+}
+
+.h2-why{
+    position: absolute;
+    width: 189px;
+    height: 20px;
+
+    right: 437px;
+    top: 80px;
+    left: 80px;
+    bottom: 484px;
+
+    /* Cap 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    color: #232536;
+}
+
+.h1-why{
+    position: absolute;
+    width: 546px;
+    height: 192px;
+
+    right: 80px;
+    top: 124px;
+    left: 80px;
+    bottom: 268px;
+    
+    /* Heading H1 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    /* or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;    
+}
+
+.p-why{
+    position: absolute;
+    width: 546px;
+    height: 84px;
+
+    right: 80px;
+    left: 80px;
+    top: 332px;
+    bottom: 168px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;
+    
+}
+
+.whybutton{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 48px;
+    gap: 12px;
+    
+    position: absolute;
+    width: 269px;
+    height: 56px;
+
+    left: 80px;
+    right: 357px;
+    top: 448px;
+    bottom: 80px;
+    
+    /* Yellow */
+    background: #FFD050;
+    cursor: pointer;
+    border: none;
+}
+
+.buttontext{
+    width: 173px;
+    height: 24px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    display: flex;
+    align-items: center;
+    
+    /* Black */
+    color: #232536;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
