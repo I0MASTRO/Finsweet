@@ -6,7 +6,7 @@
     left: 80px;
     top: 3796px;
     right: 80px;
-    bottom: 1780px;      
+    bottom: 1780px;   
 }
 
 .h-authors{
@@ -32,12 +32,183 @@
     color: #232536;   
 }
 
-.Floyd{
+.Floyd,
+.Dianne,
+.Jenny,
+.Leslie{
     position: absolute;
-    left: 0px;
-    right: 984px;
-    top: 96px;
     bottom: 0px;
+    top: 96px;
+
+    width: 296px;
+    height: 324px;
 
     background: #F4F4F4;    
 }
+
+.Floyd{
+    left: 0px;
+    right: 984px;
+}
+
+.Dianne{
+    left: 328px;
+    right: 656px;
+
+    background: #FBF6EA;
+}
+
+.Jenny{
+    left: 656px;
+    right: 328px;
+}
+
+.Leslie{
+    left: 984px;
+    right: 0px;
+}
+
+.img-floyd,
+.img-dianne,
+.img-jenny,
+.img-leslie{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+
+    right: 84px;
+    top: 40px;
+    left: 84px;
+    bottom: 156px;
+}
+
+.h-floyd,
+.h-dianne,
+.h-jenny,
+.h-leslie{
+    position: absolute;
+    height: 40px;
+
+    top: 188px;
+    bottom: 96px;
+
+    /* Heading H3 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    /* identical to box height, or 143% */
+    letter-spacing: -1px;
+    
+    /* Black */
+    color: #232536;
+}
+
+.h-floyd{
+    width: 143px;
+
+    right: 77px;
+    left: 76px;
+}
+
+.h-dianne{
+    width: 182px;
+
+    right: 57px;
+    left: 57px;  
+}
+
+.h-jenny{
+    width: 162px;
+
+    left: 67px;
+    right: 67pxb;
+}
+
+.h-leslie{
+    width: 209px;
+
+    left: 43px;
+    right: 44px;
+}
+
+.p-authors{
+    position: absolute;
+    width: 240px;
+    height: 20px;
+
+    right: 28px;
+    top: 228px;
+    left: 28px;
+    bottom: 76px;
+    
+    /* Body 2 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    text-align: center;
+    
+    /* Medium grey */
+    color: #6D6E76;   
+}
+
+.social-web{
+    position: absolute;
+
+    left: 92px;
+    right: 92px;
+    top: 268px;
+    bottom: 40px;
+
+    width: 112px;
+    height: 16px;
+}
+
+.facebook{
+    position: absolute;
+    left: 0px;
+    right: 96px;
+    top: 0px;
+    bottom: 0.1px;
+    
+    width: 16px;
+    height: 16px;
+}
+
+.twitter{
+    position: absolute;
+    left: 32px;
+    right: 64px;
+    top: 1.59px;
+    bottom: 0.59px;   
+    
+    width: 16px;
+    height: 17px;
+}
+
+.instagram{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+
+    top: 0px;
+    bottom: 0px;
+    left: 64px;
+    right: 32.01px;
+}
+
+.linkedin{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+
+    top: 0px;
+    bottom: 0px;
+    left: 96px;
+    right: 0px;
+}
+
