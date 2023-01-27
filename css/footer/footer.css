@@ -34,3 +34,18 @@
     bottom: 417.88px;    
 }
 
+.footer-list{
+    position: absolute;
+    width: 434px;
+    height: 28.65px;
+
+    left: 846px;
+    top: 0px;
+    right: 0px;
+    bottom: 417px;
+
+    list-style: none;
+
+    padding: 0;
+    margin: 0;
+}
