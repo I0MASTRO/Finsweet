@@ -1,0 +1,212 @@
+.smooth-block{
+    position: absolute;
+    width: 1280px;
+    height: 464px;
+
+    right: 80px;
+    top: 4460px;
+    left: 80px;
+    bottom: 1072px;
+    
+    /* Light yellow */
+    background: #FBF6EA;
+}
+
+.say{
+    position: absolute;
+    width: 349px;
+    height: 200px;
+
+    left: 112px;
+    top: 92px;    
+    bottom: 172px;
+    right: 819px;
+}
+
+.s-say{
+    position: absolute;
+    width: 153px;
+    height: 20px;
+
+    right: 196px;
+    top: 0px;
+    left: 0px;
+    bottom: 180px;
+    
+    /* Cap 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    /* Black */
+    color: #232536;
+}
+
+.h-say{
+    position: absolute;
+    width: 345px;
+    height: 96px;
+
+    left: 0px;
+    right: 4px;
+    top: 32px;
+    bottom: 72px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;    
+}
+
+.p-say{
+    position: absolute;
+    width: 349px;
+    height: 56px;
+
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    top: 144px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Black */
+    color: #232536;
+}
+
+.line{
+    position: absolute;
+
+    left: 541px;
+    right: 739px;
+    top: 80px;
+    bottom: 74px;
+}
+
+.lorem{
+    position: absolute;
+    width: 469px;
+    height: 128px;
+
+    right: 174px;
+    top: 80px;
+    bottom: 256px;
+    left: 637px;
+    
+    /* Heading H4 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    
+    /* Black */
+    color: #232536;
+}
+
+.jonathan{
+    position: absolute;
+    width: 257px;
+    height: 60px;
+
+    right: 386px;
+    bottom: 75px;
+    left: 637px;
+    top: 329px;    
+}
+
+.photo-jon{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+
+    right: 209px;
+    top: 0px;
+    left: 0px;
+    bottom: 12px;
+}
+
+.h-jonathan{
+    position: absolute;
+    width: 193px;
+    height: 32px;
+
+    right: 0px;
+    top: 0px;
+    left: 64px;
+    bottom: 28px;
+    
+    /* Heading H4 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+    
+    /* Black */
+    color: #232536;
+}
+
+.p-jonathan{
+    position: absolute;
+    width: 114px;
+    height: 28px;
+
+    left: 64px;
+    right: 79px;
+    top: 32px;
+    bottom: 0px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;    
+}
+
+.back{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+
+    left: 1035px;
+    top: 329px;
+    right: 197px;
+    bottom: 87px;
+}
+
+.next{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+
+    left: 1107px;
+    top: 322px;
+    right: 111px;
+    bottom: 80px;    
+}
