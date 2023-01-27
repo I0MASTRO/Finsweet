@@ -1,0 +1,36 @@
+.footer-main{
+    position: absolute;
+    width: 1440px;
+    height: 560px;
+
+    right: 0px;
+    left: 0px;
+    top: 5436px;
+    bottom: 0px;
+    
+    /* Black */
+    background: #232536;
+}
+
+.content-footer{
+    position: absolute;
+    width: 1280px;
+    height: 445px;
+
+    left: 80px;
+    top: 59px;    
+    right: 80px;
+    bottom: 56px;
+}
+
+.logo-footer{
+    position: absolute;
+    width: 140px;
+    height: 28.35px;
+
+    left: 0px;
+    right: 1137.25px;
+    top: 0px;
+    bottom: 417.88px;    
+}
+
