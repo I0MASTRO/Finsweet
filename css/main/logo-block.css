@@ -1,0 +1,99 @@
+.logo-block{
+    position: absolute;
+    width: 1237px;
+    height: 52px;
+
+    left: 94px;
+    top: 4312px;
+    right: 109px;
+    bottom: 1632px;
+}
+
+.we-are{ 
+    position: absolute;
+    width: 136px;
+    height: 52px;
+
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 1101px;
+}
+
+.we{
+    position: absolute;
+    width: 83.83px;
+    height: 20px;
+
+    right: 52.17px;
+    bottom: 32px;
+    top: 0px;
+    left: 0px;
+
+    /* Body 2 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    /* Medium grey */
+    color: #6D6E76;
+
+    opacity: 0.6;
+}
+
+.in{
+    position: absolute;
+    width: 136px;
+    height: 32px;
+
+    right: 0px;
+    top: 20px;
+    bottom: 0px;
+    left: 0px;
+
+/* Heading H4 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    /* Medium grey */
+    color: #6D6E76;
+}
+
+.logo-list{
+    position: absolute;
+    width: 1015px;
+    height: 32px;
+
+    left: 223.63px;
+    top: 13.25px;
+    bottom: 9.27px;
+    right: 0px;
+    
+    opacity: 0.8;
+}
+
+.logo_1,
+.logo_2,
+.logo_3,
+.logo_4,
+.logo_5{
+    position: absolute;
+    height: 32px;
+
+    top: 0px;
+    bottom: 0px;
+}
+
+.logo_1{
+    width: 160px;
+
+    left: 0px;
+    right: 855.20px;
+}
