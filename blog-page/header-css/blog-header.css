@@ -12,5 +12,162 @@
 }
 
 .container-head{
+    position: absolute;
+    width: 624px;
+    height: 332px;
 
+    bottom: 93px;
+    right: 736px;
+    left: 80x;
+    top: 94px;  
+}
+
+.feat-cont{
+    position: absolute;
+    width: 167px;
+    height: 20px;
+
+    bottom: 312px;
+    right: 457px;
+    left: 0px;
+    top: 0px;
+    
+    /* Cap 03 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    /* Black */
+    color: #232536;
+}
+
+.h-cont{
+    position: absolute;
+    width: 624px;
+    height: 96px;
+
+    left: 0px;
+    right: 0px;
+    top: 40px;
+    bottom: 196px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    letter-spacing: -2px;
+    /* Black */
+    color: #232536;    
+}
+
+.s-cont{
+    position: absolute;
+    width: 202px;
+    height: 20px;
+
+    left: 0px;
+    right: 422px;
+    top: 152px;
+    bottom: 160px;
+    
+    /* Label 01 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    
+    /* Dark Grey */
+    color: #4C4C4C;    
+}
+
+.John{
+    color: #592EA9;
+}
+
+.p-cont{
+    position: absolute;
+    width: 624px;
+    height: 56px;
+
+    left: 0px;
+    right: 0px;
+    top: 188px;
+    bottom: 88px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;   
+}
+
+.read-more{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 48px;
+    gap: 12px;
+    
+    position: absolute;
+    width: 204px;
+    height: 56px;
+
+    left: 4px;
+    bottom: 0px;
+    top: 276px;
+    right: 416px;
+    
+    /* Yellow */
+    background: #FFD050;
+    
+    border: none;
+}
+
+.read{
+    width: 108px;
+    height: 24px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    display: flex;
+    align-items: center;
+    
+    /* Black */
+    color: #232536;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.man{
+    position: absolute;
+    width: 515px;
+    height: 359px;
+
+    right: 80px;
+    top: 80px;
+    left: 845px;
+    bottom: 80px;
 }
