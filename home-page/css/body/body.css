@@ -7,4 +7,6 @@
     margin: 0;
 
     background: #FFFFFF;
+
+    overflow-x: hidden;
 }

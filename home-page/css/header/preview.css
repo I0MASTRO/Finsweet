@@ -57,7 +57,7 @@
     letter-spacing: 3px;
     text-transform: uppercase;
     
-
+    
     color: #FFFFFF;
 }
 
@@ -112,8 +112,6 @@
 }
 
 .first-p{
-    padding: 0;
-    margin: 0;
     position: absolute;
     width: 599px;
     height: 56px;
@@ -133,6 +131,7 @@
 }
 
 .read-more{
+    
     padding: 0;
     margin: 0;
     display: flex;
