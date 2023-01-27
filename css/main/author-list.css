@@ -1,0 +1,43 @@
+.authors-list{
+    position: absolute;
+    width: 1280px;
+    height: 420px;
+
+    left: 80px;
+    top: 3796px;
+    right: 80px;
+    bottom: 1780px;      
+}
+
+.h-authors{
+    position: absolute;
+    width: 231px;
+    height: 48px;
+
+    right: 534px;
+    left: 515px;
+    top: 0px;
+    bottom: 372px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height, or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;   
+}
+
+.Floyd{
+    position: absolute;
+    left: 0px;
+    right: 984px;
+    top: 96px;
+    bottom: 0px;
+
+    background: #F4F4F4;    
+}
