@@ -40,4 +40,8 @@
     right: 0px;
     left: 0px;
     top: 96px;
+
+    opacity: 0.32;
+    /* Medium grey */
+    border: 1px solid #6D6E76;
 }

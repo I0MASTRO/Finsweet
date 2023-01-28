@@ -1,0 +1,32 @@
+.blog-cards{
+    position: absolute;
+    width: 1147px;
+    height: 1846px;
+
+    bottom: 1564px;
+    right: 213px;
+    left: 80px;
+    top: 823px;    
+}
+
+.card-1{
+    position: absolute;
+    width: 1146px;
+    height: 318px;
+
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 1528px;   
+}
+
+.two-women{
+    position: absolute;
+    width: 490px;
+    height: 318px;
+
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 656px;    
+}
