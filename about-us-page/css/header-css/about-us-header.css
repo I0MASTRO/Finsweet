@@ -7,8 +7,6 @@
     top: 160px;
     bottom: 4014px;
     right: 118px;
-
-    border: 1px solid red;
 }
 
 .ab{
@@ -17,7 +15,7 @@
     height: 20px;
 
     bottom: 272px;
-    right: 965px;
+    right: 465px;
     left: 64px;
     top: 64px;
     
@@ -40,10 +38,10 @@
     width: 496px;
     height: 192px;
 
-    bottom: 94px;
-    right: 573px;
+    bottom: 104px;
+    right: 64px;
     left: 64px;
-    top: 70px;
+    top: 60px;
     
     /* Heading H1 */
     font-family: 'Sen';
@@ -80,7 +78,7 @@
     color: #4C4C4C;
 }
 
-.ab-background{
+.white-background{
     position: absolute;
     width: 624px;
     height: 356px;
@@ -90,5 +88,7 @@
     bottom: 0px;
     right: 509px;
     
-    background: #FFFFFF;
+    z-index: 5;
+
+    background:  white;
 }
