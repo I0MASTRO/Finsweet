@@ -1,0 +1,83 @@
+.button-block{
+    position: absolute;
+    width: 174px;
+    height: 40px;
+
+    bottom: 1460px;
+    right: 619px;
+    left: 647px;
+    top: 2733px;
+}
+
+.back{
+    position: absolute;
+    width: 73px;
+    height: 32px;
+
+    bottom: 3px;
+    right: 101px;
+    left: 0px;
+    top: 5px;
+}
+
+.next{
+    position: absolute;
+    width: 84px;
+    height: 40px;
+
+    bottom: 0px;
+    right: 0px;
+    left: 90px;
+    top: 0px;    
+}
+
+.pr{
+    position: absolute;
+    width: 73px;
+    height: 32px;
+
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    top: 0px;
+    
+    /* Heading H4 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Medium grey */
+    color: #6D6E76;    
+}
+
+.ne{
+    position: absolute;
+    width: 84px;
+    height: 40px;
+
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+
+    /* Heading H3 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    /* identical to box height, or 143% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -1px;
+    
+    /* Black */
+    color: #232536;    
+}

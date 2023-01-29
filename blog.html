@@ -7,9 +7,14 @@
     <title>Finsweet</title>
     <link rel="stylesheet" href="home-page/css/body/body.css">
     <link rel="stylesheet" href="home-page/css/header/navbar.css">
-    <link rel="stylesheet" href="blog-page/header-css/blog-header.css">
-    <link rel="stylesheet" href="blog-page/main-css/first.css">
-    <link rel="stylesheet" href="blog-page/main-css/blog-cards.css">
+    <link rel="stylesheet" href="blog-page/css/header-css/blog-header.css">
+    <link rel="stylesheet" href="blog-page/css/main-css/first.css">
+    <link rel="stylesheet" href="blog-page/css/main-css/blog-cards.css">
+    <link rel="stylesheet" href="blog-page/css/main-css/button-block.css">
+    <link rel="stylesheet" href="blog-page/css/main-css/blog-main.css">
+    <link rel="stylesheet" href="blog-page/css/main-css/choose-list.css">
+    <link rel="stylesheet" href="blog-page/css/main-css/join-block.css">
+    <link rel="stylesheet" href="blog-page/css/footer-css/footer.css">
 </head>
 <body>
     <header>
@@ -18,9 +23,6 @@
             <ul class="nav-list">
                 <li>
                     <a href="index.html" class="home">Home</a>
-                </li>
-                <li>
-                    <a href="blog.html" class="blog">Blog</a>
                 </li>
                 <li>
                     <a href="#" class="about">About Us</a>
@@ -47,7 +49,7 @@
             <img src="blog-page/images/main-office.png" alt="" class="man">
         </section>
     </header>
-    <main>
+    <main class="blog-main">
         <section class="all">
             <span class="all-posts">All posts</span>
             <div class="line"></div>
@@ -94,7 +96,93 @@
                 </section>
             </section>
         </section>
+        <section class="button-block">
+            <a href="#" class="back">
+                <span class="pr">&#8249; Prev</span>
+                </a>
+            <a href="#" class="next">
+                <span class="ne">Next &#8250;</span>
+            </a>
+        </section>
+        <h2 class="h-main">All Categories</h2>
+        <section class="choose-list">
+            <section class="choose-item-1">
+                <img src="home-page/logo/Icon.png" alt="" class="icon">
+                <h3 class="h-item-1">Business</h3>
+                <p class="p-item-1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+            </section>
+            <section class="choose-item-2">
+                <img src="home-page/logo/Icon-2.png" alt="" class="icon-2">
+                <h3 class="h-item-2">Startup</h3>
+                <p class="p-item-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+            </section>
+            <section class="choose-item-3">
+                <img src="home-page/logo/icon-3.png" alt="" class="icon-3">
+                <h3 class="h-item-3">Economy</h3>
+                <p class="p-item-3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+            </section>
+            <section class="choose-item-4">
+                <img src="home-page/logo/icon-4.png" alt="" class="icon-4">
+                <h3 class="h-item-4">Technology</h3>
+                <p class="p-item-4">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+            </section>
+        </section>
+        <section class="join">
+            <span class="h-join">Join our team to be a part of our story</span>
+            <span class="p-join">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</span>
+            <form action="index.html" method="post">
+                <button type="submit" class="join-but">
+                    <span class="sub-text">Join Now</span>
+                </button>
+            </form>
+        </section>
     </main>
-    <footer></footer>
+    <footer class="footer-main">
+        <section class="content-footer">
+            <img src="home-page/logo/Logo.png" alt="" class="logo-footer">
+            <ul class="footer-list">
+                <li>
+                    <a href="index.html" class="f-home">Home</a>
+                </li>
+                <li>
+                    <a href="#" class="f-about">About Us</a>
+                </li>
+                <li>
+                    <a href="#" class="f-contact">Contact Us</a>
+                </li>
+                <li>
+                    <a href="" class="f-privacy">Privacy Policy</a>
+                </li>
+            </ul>
+            <section class="cta">
+                <div class="backg"></div>
+                <span class="s-cta">Subscribe to our news letter to get latest updates and news</span>
+                <form action="index.html" method="post" id="email-sub">
+                    <input type="text" class="etext" name="text" placeholder="Enter Your Email">
+                </form>
+                <button type="submit" name="subm" form="email-sub" class="esub">
+                        <span class="subs">Subscribe</span>
+                </button>
+            </section>
+            <section class="contact-info">
+                <span class="finstreet">Finstreet 118 2561 Fintown</span>
+                <span class="mail">Hello@finsweet.com  020 7993 2905</span>
+            </section>
+            <section class="social-wrap">
+                <a href="https://www.facebook.com/">
+                    <img src="home-page/logo/f-facebook.png" alt="" class="f-facebook">
+                </a>
+                <a href="https://twitter.com">
+                    <img src="home-page/logo/f-twitter.png" alt="" class="f-twitter">
+                </a>
+                <a href="https://instagram.com">
+                    <img src="home-page/logo/f-instagram.png" alt="" class="f-instagram">
+                </a>
+                <a href="https://linked.com">
+                    <img src="home-page/logo/f-linkedln.png" alt="" class="f-linked">
+                </a>
+            </section>
+        </section>
+    </footer>
 </body>
 </html>

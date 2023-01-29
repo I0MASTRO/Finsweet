@@ -1,0 +1,327 @@
+.footer-main{
+    position: absolute;
+    width: 1440px;
+    height: 560px;
+
+    right: 0px;
+    left: 0px;
+    top: 3673px;
+    bottom: 0px;
+    
+    /* Black */
+    background: #232536;
+
+    padding: 0;
+    margin: 0;
+}
+
+.content-footer{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 1280px;
+    height: 445px;
+
+    left: 80px;
+    top: 59px;    
+    right: 80px;
+    bottom: 56px;
+}
+
+.logo-footer{
+    position: absolute;
+    width: 140px;
+    height: 28.35px;
+
+    left: 0px;
+    right: 1137.25px;
+    top: 0px;
+    bottom: 417.88px;    
+}
+
+.footer-list{
+    position: absolute;
+    width: 434px;
+    height: 28.65px;
+
+    left: 846px;
+    top: 0px;
+    right: 0px;
+    bottom: 417px;
+
+    list-style: none;
+
+    padding: 0;
+    margin: 0;
+}
+
+.f-home,
+.f-blog,
+.f-about,
+.f-contact,
+.f-privacy{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+
+    top: 0px;
+    bottom: 0.65px;
+
+    text-decoration: none;
+    
+    color: #FFFFFF;
+}
+
+.f-home{
+    width: 45px;
+    height: 28px;
+
+    left: 0px;
+    right: 389px;
+}
+
+.f-blog{
+    width: 34px;
+    height: 28px;
+
+    left: 69px;
+    right: 331px;
+}
+
+.f-about{
+    width: 71px;
+    height: 27.65px;
+
+    left: 127px;
+    right: 236px;
+}
+
+.f-contact{
+    width: 83px;
+    height: 28px;
+
+    left: 222px;
+    right: 129px;
+}
+
+.f-privacy{
+    width: 105px;
+    height: 28px;
+
+    left: 329px;
+    right: 0px;
+}
+
+.cta{
+    position: absolute;
+    width: 1280px;
+    height: 256px;
+
+    bottom: 104px;
+    right: 0px;
+    left: 0px;
+    top: 85px;   
+}
+
+.s-cta{
+    position: absolute;
+    width: 562px;
+    height: 96px;
+
+    bottom: 80px;
+    right: 654px;
+    left: 64px;
+    top: 80px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -2px;
+    
+    color: white;    
+}
+
+.etext{
+    position: absolute;
+    width: 323px;
+    height: 56px;
+    
+    right: 267px;
+    bottom: 116px;
+    left: 690px;
+    top: 84px;
+
+    border: 1px solid #4C4C4C;  
+      
+}
+
+.esub{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 48px;
+    gap: 12px;
+    
+    position: absolute;
+    width: 179px;
+    height: 56px;
+
+    left: 1037px;
+    top: 84px;
+    bottom: 116px;
+    right: 64px;
+    
+    /* Yellow */
+    background: #FFD050;
+    border: none;
+    cursor: pointer;
+}
+
+.subs{
+
+    width: 83px;
+    height: 24px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    display: flex;
+    align-items: center;
+    
+    /* Black */
+    color: #232536;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.backg{
+    position: absolute;
+    width: 1280px;
+    height: 256px;
+
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    
+    /* Light */
+    background: #FFFFFF;
+    opacity: 0.05;
+}
+
+.contact-info{
+    position: absolute;
+    width: 361px;
+    height: 56px;
+
+    left: 0px;
+    top: 389px;   
+    right: 919px;
+    bottom: 0px; 
+}
+
+.finstreet{
+    position: absolute;
+    width: 361px;
+    height: 28px;
+
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 28px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    /* Light */
+    color: #FFFFFF;
+    
+    opacity: 0.7;
+}
+
+.mail{
+    position: absolute;
+    width: 361px;
+    height: 28px;
+
+    left: 0px;
+    top: 28px;
+    right: 0px;
+    bottom: 0px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    /* Light */
+    color: #FFFFFF;
+    
+    opacity: 0.7;
+}
+
+.social-wrap{
+    position: absolute;
+    width: 144px;
+    height: 16px;
+
+    left: 1136px;
+    top: 401px;
+    bottom: 28px;
+    right: 0px;
+}
+
+.f-facebook,
+.f-twitter,
+.f-instagram,
+.f-linked{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 0px;
+    bottom: 0px;    
+}
+
+.f-facebook{
+    left: 0px;
+    right: 128px
+}
+
+.f-twitter{
+    left: 42.67px;
+    right: 85.33px;
+}
+
+.f-instagram{
+    left: 85.33px;
+    right: 42.68px;
+}
+
+.f-linked{
+    left: 128px;
+    right: 0px;
+}

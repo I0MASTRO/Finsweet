@@ -1,0 +1,102 @@
+.join{
+    position: absolute;
+    width: 414px;
+    height: 256px;
+
+    right: 513px;
+    left: 513px;
+    top: 3289px;
+    bottom: 688px;
+}
+
+.h-join{
+    position: absolute;
+    width: 414px;
+    height: 96px;
+
+    right: 0px;
+    top: 0px;
+    left: 0px;
+    bottom: 160px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    text-align: center;
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;
+}
+
+.p-join{
+    position: absolute;
+    width: 405px;
+    height: 56px;
+
+    right: 4px;
+    top: 112px;
+    left: 5px;
+    bottom: 88px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    text-align: center;
+    
+    /* Medium grey */
+    color: #6D6E76;
+}
+
+.join-but{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 48px;
+    gap: 12px;
+    
+    position: absolute;
+    width: 174px;
+    height: 56px;
+
+    right: 120px;
+    left: 120px;
+    top: 200px;
+    bottom: 0px;
+
+    /* Yellow */
+    background: #FFD050;
+    border: none;
+    cursor: pointer;
+}
+
+.sub-text{
+    width: 78px;
+    height: 24px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    /* identical to box height, or 133% */
+    display: flex;
+    align-items: center;
+    
+    /* Black */
+    color: #232536;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}

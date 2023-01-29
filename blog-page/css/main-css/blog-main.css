@@ -1,0 +1,22 @@
+.h-main{
+    position: absolute;
+    width: 218px;
+    height: 48px;
+
+    left: 81px;
+    bottom: 1348px;
+    right: 1141px;
+    top: 2837px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height, or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;
+}
