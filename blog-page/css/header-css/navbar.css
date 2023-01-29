@@ -1,0 +1,134 @@
+.navbar{
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    
+    background: #232536;
+}
+
+.logo{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 140px;
+    height: 28.35px;
+
+    left: 83px;
+    top: 25px;
+    bottom: 26.65px;
+    right: 1217px;
+}
+
+.nav-list{
+    position: absolute;
+    width: 305px;
+    height: 29px;
+
+    left: 844px;
+    top: 26px;
+    right: 291px;
+    bottom: 25px;
+
+    list-style: none;
+
+    padding: 0;
+    margin: 0;
+
+    border: 1px solid red;
+}
+
+.home,
+.about,
+.contact{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+
+    top: 0px;
+    bottom: 1px;
+
+    text-decoration: none;
+    
+    color: #FFFFFF;
+}
+
+.home{
+    width: 45px;
+    height: 28px;
+
+    left: 69px;
+    right: 202px;
+}
+
+.about{
+    width: 71px;
+    height: 27.65px;
+
+    left: 127px;
+    right: 107px;
+}
+
+.contact{
+    width: 83px;
+    height: 28px;
+
+    left: 222px;
+    right: 0px;
+}
+
+.subbutton{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 48px;
+    gap: 12px;
+    
+    position: absolute;
+    width: 179px;
+    height: 56px;
+
+    left: 1181px;
+    top: 12px;
+    bottom: 12px;
+    right: 80px;
+
+    border: none;
+
+    background: white;
+    cursor: pointer;
+}
+
+.sub{
+    padding: 0;
+    margin: 0;
+    width: 83px;
+    height: 24px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    
+    display: flex;
+    align-items: center;
+    
+
+    color: #232536;
+    
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
