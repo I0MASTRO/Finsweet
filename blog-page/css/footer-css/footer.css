@@ -41,22 +41,23 @@
 
 .footer-list{
     position: absolute;
-    width: 434px;
+    width: 384px;
     height: 28.65px;
 
-    left: 846px;
+    left: 896px;
     top: 0px;
     right: 0px;
-    bottom: 417px;
+    bottom: 467px;
 
     list-style: none;
 
     padding: 0;
     margin: 0;
+
+    border: 1px solid red;
 }
 
 .f-home,
-.f-blog,
 .f-about,
 .f-contact,
 .f-privacy{
@@ -79,39 +80,31 @@
     width: 45px;
     height: 28px;
 
-    left: 0px;
-    right: 389px;
-}
-
-.f-blog{
-    width: 34px;
-    height: 28px;
-
-    left: 69px;
-    right: 331px;
+    left: 19px;
+    right: 281px;
 }
 
 .f-about{
     width: 71px;
     height: 27.65px;
 
-    left: 127px;
-    right: 236px;
+    left: 77px;
+    right: 186px;
 }
 
 .f-contact{
     width: 83px;
     height: 28px;
 
-    left: 222px;
-    right: 129px;
+    left: 172px;
+    right: 79px;
 }
 
 .f-privacy{
     width: 105px;
     height: 28px;
 
-    left: 329px;
+    left: 279px;
     right: 0px;
 }
 
