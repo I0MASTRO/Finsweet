@@ -1,0 +1,120 @@
+.our-team{
+    position: absolute;
+    width: 1280px;
+    height: 480px;
+
+    right: 80px;
+    left: 80px;
+    top: 1466px;
+    bottom: 2584px;    
+}
+
+.content{
+    position: absolute;
+    width: 519px;
+    height: 316px;
+
+    bottom: 82px;
+    right: 761px;
+    left: 0px;
+    top: 82px;    
+}
+
+.h-content-1{
+    position: absolute;
+    width: 444px;
+    height: 48px;
+
+    bottom: 268px;
+    left: 0px;
+    right: 75px;
+    top: 0px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height, or 133% */
+    letter-spacing: -2px;
+    
+    color: #232536;   
+}
+
+.h-content-2{
+    position: absolute;
+    width: 519px;
+    height: 96px;
+
+    bottom: 156px;
+    left: 0px;
+    right: 0px;
+    top: 64px;
+    
+    /* Heading H4 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    
+    /* Black */
+    color: #232536;    
+}
+
+.p-content{
+    position: absolute;
+    width: 519px;
+    height: 140px;
+
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    top: 176px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Black */
+    color: #232536;    
+}
+
+.image{
+    position: absolute;
+    width: 681px;
+    height: 480px;
+
+    bottom: 0px;
+    right: 0px;
+    left: 656px;
+    top: 0px;    
+}
+
+.arms{
+    position: absolute;
+    width: 624px;
+    height: 480px;
+
+    bottom: 0px;
+    left: 57px;
+    right: 0px;
+    top: 0px;    
+}
+
+.shape-team{
+    position: absolute;
+    width: 103px;
+    height: 116px;
+
+    bottom: 250px;
+    left: 0px;
+    right: 578px;
+    top: 114px;
+}
