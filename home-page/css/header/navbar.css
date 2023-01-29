@@ -25,12 +25,12 @@
 
 .nav-list{
     position: absolute;
-    width: 305px;
+    width: 255px;
     height: 29px;
 
-    left: 844px;
+    left: 894px;
     top: 26px;
-    right: 291px;
+    right: 241px;
     bottom: 25px;
 
     list-style: none;
@@ -39,7 +39,6 @@
     margin: 0;
 }
 
-.home,
 .blog,
 .about,
 .contact{
@@ -60,35 +59,27 @@
     color: #FFFFFF;
 }
 
-.home{
-    width: 45px;
-    height: 28px;
-
-    left: 0px;
-    right: 260px;
-}
-
 .blog{
     width: 34px;
     height: 28px;
 
-    left: 69px;
-    right: 202px;
+    left: 19px;
+    right: 152px;
 }
 
 .about{
     width: 71px;
     height: 27.65px;
 
-    left: 127px;
-    right: 107px;
+    left: 77px;
+    right: 57px;
 }
 
 .contact{
     width: 83px;
     height: 28px;
 
-    left: 222px;
+    left: 172px;
     right: 0px;
 }
 
