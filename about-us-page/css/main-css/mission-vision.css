@@ -1,0 +1,173 @@
+.mission-vision{
+    position: absolute;
+    width: 1280px;
+    height: 441px;
+
+    right: 80px;
+    bottom: 3192px;
+    left: 80px;
+    top: 897px;
+    
+    background: #F4F0F8;
+}
+
+.mission{
+    position: absolute;
+    width: 516px;
+    height: 249px;
+
+    left: 108px;
+    top: 128px;
+    right: 656px;
+    bottom: 64px;    
+}
+
+.s-mission{
+    position: absolute;
+    width: 124px;
+    height: 20px;
+
+    bottom: 229px;
+    left: 0px;
+    right: 392px;
+    top: 0px;
+    
+    /* Cap 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    /* Black */
+    color: #232536;    
+}
+
+.h-mission{
+    position: absolute;
+    width: 481px;
+    height: 80px;
+
+    bottom: 155px;
+    left: 0px;
+    right: 35px;
+    top: 14px;
+    
+    /* Heading H3 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    /* or 143% */
+    letter-spacing: -1px;
+    
+    /* Black */
+    color: #232536;   
+}
+
+.p-mission{
+    position: absolute;
+    width: 516px;
+    height: 109px;
+
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    top: 140px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;    
+}
+
+.vision{
+    position: absolute;
+    width: 516px;
+    height: 249px;
+
+    left: 656px;
+    top: 128px;
+    right: 108px;
+    bottom: 64px;
+}
+
+.s-vision{
+    position: absolute;
+    width: 121px;
+    height: 20px;
+
+    right: 395px;
+    top: 0px;
+    left: 0px;
+    bottom: 229px;
+    
+    /* Cap 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    /* Black */
+    color: #232536;
+}
+
+.h-vision{
+    position: absolute;
+    width: 475px;
+    height: 80px;
+
+    right: 41px;
+    left: 0px;
+    top: 14px;
+    bottom: 155px;
+    
+    /* Heading H3 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    /* or 143% */
+    letter-spacing: -1px;
+    
+    /* Black */
+    color: #232536;
+    
+}
+
+.p-vision{
+    position: absolute;
+    width: 516px;
+    height: 109px;
+
+    right: 0px;
+    top: 140px;
+    bottom: 0px;
+    left: 0px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;    
+}
