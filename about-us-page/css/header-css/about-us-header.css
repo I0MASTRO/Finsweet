@@ -1,0 +1,92 @@
+.about-us-header{
+    position: absolute;
+    width: 1133px;
+    height: 356px;
+
+    left: 189px;
+    top: 160px;
+    bottom: 4014px;
+    right: 118px;
+}
+
+.ab{
+    position: absolute;
+    width: 104px;
+    height: 20px;
+
+    bottom: 272px;
+    right: 965px;
+    left: 64px;
+    top: 64px;
+    
+    /* Cap 03 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    /* Black */
+    color: #232536;
+}
+
+.h-ab{
+    position: absolute;
+    width: 496px;
+    height: 192px;
+
+    bottom: 94px;
+    right: 573px;
+    left: 64px;
+    top: 70px;
+    
+    /* Heading H1 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    /* or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;    
+}
+
+.p-ab{
+    position: absolute;
+    width: 477px;
+    height: 112px;
+
+    bottom: 142px;
+    left: 656px;
+    right: 0px;
+    top: 102px;
+    
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Dark Grey */
+    color: #4C4C4C;
+}
+
+.ab-background{
+    position: absolute;
+    width: 624px;
+    height: 356px;
+
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 509px;
+    
+    background: #FFFFFF;
+}
