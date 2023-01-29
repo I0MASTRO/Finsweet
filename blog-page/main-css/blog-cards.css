@@ -110,3 +110,105 @@
     /* Medium grey */
     color: #6D6E76;
 }
+
+.card-2{
+    position: absolute;
+    width: 1146px;
+    height: 318px;
+
+    right: 0px;
+    left: 0px;
+    top: 382px;    
+    bottom: 1146px;
+}
+
+.people-table{
+    position: absolute;
+    width: 490px;
+    height: 318px;
+
+    bottom: 0px;
+    left: 0px;
+    top: 0px;
+    right: 656px;
+}
+
+.head-card-2{
+    position: absolute;
+    width: 624px;
+    height: 208px;
+
+    bottom: 55px;
+    left: 522px;
+    top: 55px;
+    right: 0px;
+}
+
+.s-card-2{
+    position: absolute;
+    width: 183.37px;
+    height: 20px;
+
+    bottom: 188px;
+    right: 440.63px;
+    left: 0px;
+    top: 0px;
+    
+    /* Cap 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    /* Purple */
+    color: #592EA9;    
+}
+
+.h-card-2{
+    position: absolute;
+    width: 602.89px;
+    height: 96px;
+
+    right: 21.11px;
+    bottom: 92px;
+    left: 0px;
+    top: 20px;
+    
+    /* Heading H2 */
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* or 133% */
+    letter-spacing: -2px;
+    
+    /* Black */
+    color: #232536;    
+}
+
+.p-card-2{
+    position: absolute;
+    width: 624px;
+    height: 56px;
+
+    left: 0px;
+    top: 152px;
+    bottom: 0px;
+    right: 0px;
+
+    /* Body 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    /* Medium grey */
+    color: #6D6E76;
+}
